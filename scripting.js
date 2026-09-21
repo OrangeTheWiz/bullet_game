@@ -230,7 +230,7 @@ function Loop()
      }
     }
     context.reset()
-    context.font = "20px Ariel"
+    context.font = "20px fantasy"
 
     context.fillStyle = "orange"
     context.drawImage(face, FaceX, FaceY)
