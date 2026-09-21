@@ -8,3 +8,4 @@ used here.
 I got some commands to roll back github from
 https://stackoverflow.com/questions/4372435/how-can-i-rollback-a-git-repository-to-a-specific-commit
 
+by the way I also used some AI to help with git 
