@@ -1,0 +1,19 @@
+
+body
+{
+    cursor: none;
+    background-color: black;
+}
+
+#main_div
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+#main_canv
+{
+    background-color: green;
+    cursor: none
+}

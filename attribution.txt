@@ -1,0 +1,6 @@
+Attribution that does not go into notice files might be put here.
+
+
+Credits to the MDN docs developers for making the GetRandomInt function
+
+used here.
